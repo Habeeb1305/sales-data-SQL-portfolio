@@ -1,8 +1,8 @@
 # Sales Analytics SQL Portfolio
 
 SQL queries written against a 1,000-row e-commerce sales dataset, covering joins, subqueries, CTEs, CASE logic, window functions, and aggregate filtering. Each query answers a specific business question, and each is documented with the reasoning behind the calculation choices made.
+This project pairs with a companion Power BI dashboard built on the same dataset - see `Dashboard.pdf` for a full export of the dashboard.
 
-This project pairs with a companion Power BI dashboard built on the same dataset (see `/dashboard` folder for screenshots, or [live dashboard link] if published).
 
 ## A note on data consistency
 
